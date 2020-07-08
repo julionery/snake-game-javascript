@@ -3,7 +3,9 @@
 </h3>   
 
 ### :rocket: Tecnologias:
- - JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## :link: Como contribuir
 
